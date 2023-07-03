@@ -1,0 +1,17 @@
+D:\dev\pubsub\Subscriber\bin\Debug\net7.0\Subscriber.exe
+D:\dev\pubsub\Subscriber\bin\Debug\net7.0\Subscriber.deps.json
+D:\dev\pubsub\Subscriber\bin\Debug\net7.0\Subscriber.runtimeconfig.json
+D:\dev\pubsub\Subscriber\bin\Debug\net7.0\Subscriber.dll
+D:\dev\pubsub\Subscriber\bin\Debug\net7.0\Subscriber.pdb
+D:\dev\pubsub\Subscriber\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\Subscriber.csproj.AssemblyReference.cache
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\Subscriber.AssemblyInfoInputs.cache
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\Subscriber.AssemblyInfo.cs
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\Subscriber.csproj.CoreCompileInputs.cache
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\Subscriber.csproj.CopyComplete
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\Subscriber.dll
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\refint\Subscriber.dll
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\Subscriber.pdb
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\Subscriber.genruntimeconfig.cache
+D:\dev\pubsub\Subscriber\obj\Debug\net7.0\ref\Subscriber.dll
